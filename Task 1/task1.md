@@ -1,0 +1,2 @@
+Name of wallet (Lace/Nami): Lace
+Wallet address: addr_test1qqs2upue2r9x92ahyspa3vqrt4dfgl9z5m96h0uxp9rnny3g883n7mh8rctkrsakktcyywp3gjyux448z2gjmls4qrasemctw3
